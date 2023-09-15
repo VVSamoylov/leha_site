@@ -1,0 +1,22 @@
+.textCenter{
+    text-align: center;
+}
+
+.textJustify{
+    text-align: justify;
+}
+
+.disableBorder{
+    border-width: 0ch;
+}
+
+.borderCard{
+    border-width: 1px;
+    border-color:  var(--bs-card-color); /* dimgray; */
+    border-style: solid;
+    margin: 2px;
+}
+
+h5 ul li{
+    list-style-type: square;
+}
